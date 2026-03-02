@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ab4a47c9-1e8b-42bb-bc29-7d80d92fc546
 # 🎬 Viral News Autopilot: Self-Generating AI Avatar Channels (n8n + HeyGen)
 
 ## 📺 Project Demos
@@ -5,7 +7,8 @@ Deploying high-fidelity AI avatars for autonomous news delivery.
 
 | 👤 Avatar Model: Briana | 👤 Avatar Model: Raegan |
 
-https://github.com/user-attachments/assets/e8a41362-fb2b-4e08-8055-38264141396b
+https://github.com/user-attachments/assets/e8a41362-fb2b-4e08-8055-38264141396b       Uploading Heygen AI Avatar.mp4…
+
 
 
 | :---: | :---: |
