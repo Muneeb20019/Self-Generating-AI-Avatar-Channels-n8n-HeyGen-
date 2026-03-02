@@ -8,32 +8,32 @@
 
 ---
 
-## 📺 Project Demo
-<div align="center">
-  <!-- Replace 'YOUR_VIDEO_FILENAME.mp4' with the actual video file you uploaded to GitHub -->
-  <video src="https://github.com/Muneeb20019/n8n/raw/main/YOUR_VIDEO_FILENAME.mp4" width="100%" controls></video>
-  <p><i>Autonomous AI Newsroom: Real-time trend research and talking-head AI Avatar synthesis.</i></p>
-</div>
+## 📺 Project Demos
+Deploying high-fidelity AI avatars for autonomous news delivery.
+
+| 👤 Avatar Model: Briana | 👤 Avatar Model: Raegan |
+| :---: | :---: |
+| <video src="https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/Heygen%20AI%20Avatar.mp4" width="300" controls></video> | <video src="https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/AI%20Avatar%202.mp4" width="300" controls></video> |
 
 ---
 
 ## 🚀 Project Overview
 This system is a **Fully Autonomous AI Media House**. It functions as a digital newsroom that operates 24/7 without manual filming or editing. The pipeline proactively researches trending news in specific niches, generates a professional **"Talking Head" AI Avatar** video, and publishes the content to **9+ social media platforms** simultaneously.
 
-By combining **Perplexity's** real-time research with **HeyGen's** high-fidelity avatar synthesis, this workflow enables creators and agencies to scale their digital presence with 100% automation.
+By combining **Perplexity's** real-time research with **HeyGen's** high-fidelity avatar synthesis, this workflow enables creators and agencies to scale their digital presence with 100% automation and high-quality production standards.
 
 ---
 
 ## 🖼️ System Architecture
 
-### 1. Full Workflow Orchestration
+### 1. Workflow Orchestration (Briana Pipeline)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muneeb20019/n8n/main/Video%20Generation%20for%20youtube.png" width="100%" alt="Workflow Overview"/>
+  <img src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/Avatar%20Briana.png" width="100%" alt="n8n Briana Workflow"/>
 </div>
 
-### 2. Recursive Logic & HITL Gate
+### 2. Recursive Logic & Distribution (Raegan Pipeline)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muneeb20019/n8n/main/YouTube%20short.png" width="100%" alt="HITL Logic Gate"/>
+  <img src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/AI%20avatar%20Raegan.png" width="100%" alt="n8n Raegan Workflow"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@ By combining **Perplexity's** real-time research with **HeyGen's** high-fidelity
 ## 🧠 Core Technical Pillars
 
 ### 1. 🔍 Autonomous Research & Virality Ranking
-The process begins with **Perplexity AI**. Unlike standard LLMs, this node performs real-time web-crawling to identify the top trending news stories in a given niche. A specialized agent then ranks these stories based on **Viral Probability** and compiles a factual report to serve as the foundation for the video script.
+The process begins with **Perplexity AI**. Unlike standard LLMs, this node performs real-time web-crawling to identify the top 10 trending news stories in a given niche. A specialized agent then ranks these stories based on **Viral Probability** and compiles a factual report to serve as the foundation for the video script.
 
 ### 2. 🔁 Recursive Logic & Human-in-the-Loop (HITL)
 To ensure brand safety and premium quality, I implemented a **Conditional Approval Gate**:
@@ -72,14 +72,6 @@ The final stage is a massive **Distribution Matrix**. Using the **Blotato API**,
 | **📹 Synthesis** | **HeyGen API** (AI Avatar Synthesis) |
 | **📧 Approval** | SMTP / Gmail (Human-in-the-loop) |
 | **📢 Distribution** | **Blotato** (Omnichannel Social Engine) |
-
----
-
-## 📝 How to Use
-1.  **Orchestration:** The system triggers every 3 days at 10 AM via the **Schedule Trigger**.
-2.  **Audit:** The admin reviews the "Viral Script" sent via email and clicks **Approve**.
-3.  **Synthesis:** Upon approval, the AI Avatar begins rendering the video automatically.
-4.  **Publish:** The final video is blasted to all 9 social media channels with AI-optimized metadata.
 
 ---
 
