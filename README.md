@@ -4,6 +4,10 @@
 Deploying high-fidelity AI avatars for autonomous news delivery.
 
 | 👤 Avatar Model: Briana | 👤 Avatar Model: Raegan |
+
+https://github.com/user-attachments/assets/e8a41362-fb2b-4e08-8055-38264141396b
+
+
 | :---: | :---: |
 | <video src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/Heygen%20AI%20Avatar.mp4" width="350"></video> | <video src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/AI%20Avatar%202.mp4" width="350"></video> |
 | [Download Video](https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/Heygen%20AI%20Avatar.mp4) | [Download Video](https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/AI%20Avatar%202.mp4) |
