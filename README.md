@@ -1,5 +1,14 @@
 # 🎬 Viral News Autopilot: Self-Generating AI Avatar Channels (n8n + HeyGen)
 
+## 📺 Project Demos
+Deploying high-fidelity AI avatars for autonomous news delivery.
+
+| 👤 Avatar Model: Briana | 👤 Avatar Model: Raegan |
+| :---: | :---: |
+| <video src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/Heygen%20AI%20Avatar.mp4" width="350"></video> | <video src="https://raw.githubusercontent.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/main/AI%20Avatar%202.mp4" width="350"></video> |
+| [Download Video](https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/Heygen%20AI%20Avatar.mp4) | [Download Video](https://github.com/Muneeb20019/Self-Generating-AI-Avatar-Channels-n8n-HeyGen-/raw/main/AI%20Avatar%202.mp4) |
+
+
 ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Research-Perplexity-00A699?style=flat&logo=perplexity&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI-GPT--4o-412991?style=flat&logo=openai&logoColor=white)
