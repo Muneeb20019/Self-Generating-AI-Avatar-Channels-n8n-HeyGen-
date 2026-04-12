@@ -1,4 +1,4 @@
-# 🎬 Viral News Autopilot: Self-Generating AI Avatar Channels (n8n + HeyGen)
+# 🎬 Viral News Autopilot: Self-Generating AI Avatar Social Media Automation
 
 ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Research-Perplexity-00A699?style=flat&logo=perplexity&logoColor=white)
